@@ -1,0 +1,32 @@
+{
+  "name": "ghiraldi-framework",
+  "description": "This is the core of the ghiraldi framework.",
+  "private": true,
+  "version": "2.0.1",
+   "engines": {
+    "node": "0.10.x",
+    "npm":  "1.2.x"
+  },
+  "author": {
+    "name": "John O'Connor",
+    "email": "john@catalyzingconcepts.com"
+  },
+  "contributors": [
+    {
+      "name": "John O'Connor",
+      "email": "john@catalyzingconcepts.com"
+    }
+  ],
+  "dependencies": {
+    "express": ">3.0.0",
+    "jade": "*",
+    "underscore": "*",
+    "connect-flash": "0.1.0",
+    "transformers": "*",
+    "q": "*"
+  },
+  "ghiraldi": {
+    "pluginsEnabled": [
+    ]
+  }
+}
