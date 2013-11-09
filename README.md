@@ -18,7 +18,7 @@ John
 11/8/2013
 
 # I'm on CLOUD9
-If you're interested in working on the Ghiraldi framework, join my public development workspace on Cloud9 (https://c9.io/sax1johno/ghiraldi-framework).
+If you're interested in working on the Ghiraldi framework, join my public development workspace on Cloud9 (https://c9.io/sax1johno/ghiraldiv2).
 
 # What is Ghiraldi?
 Perhaps I should start with what Ghiraldi ISN'T.
